@@ -1,7 +1,7 @@
-import requests
 import json
 import spacy
 import random
+import requests
 from flask import Flask, request
 
 app = Flask(__name__)
